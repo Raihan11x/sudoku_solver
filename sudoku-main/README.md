@@ -1,7 +1,7 @@
 # Sudoku solver
 Sudoku solver using backtracking
 
-Basically in sudoku, we want to be able to solve a sudoku puzzle given an input like this, 
+Basically in sudoku, i want to be able to solve a sudoku puzzle given an input like this, 
 which represents a sudoku board:
 ```
 [[x00, x01, x02, x03... x08],
@@ -28,4 +28,4 @@ would represent a board like this:
  -----------
  ...
 ```
-Now, our goal is to solve our sudoku puzzle using Python! :D
+My goal is to solve our sudoku puzzle using Python! :D
